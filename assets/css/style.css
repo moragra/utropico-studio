@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', serif;
     background-color: #e3dfd5;
+    font-size: 15px;
     /* color: #696968; */
 }
 
@@ -72,7 +73,7 @@ body {
 }
 
 .product_text{
-    font-size: 12px;
+    font-size: 10px;
 }
 
 /* #p{
